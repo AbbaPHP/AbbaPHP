@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbbaPHP
-- 👀 I’m interested in python and django
-- 🌱 I’m currently learning python, django and sql
+- 👀 I’m interested in python and PHP
+- 🌱 I’m currently learning python, PHP, django and sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
